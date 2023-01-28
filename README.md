@@ -6,7 +6,7 @@ Completed courses:
 
 
 Functions I know: 
-- cat                           -strings
+- [cat & strings]
 - ls 
 - pwd
 - cd
