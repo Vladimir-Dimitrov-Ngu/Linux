@@ -14,3 +14,7 @@ Functions I know:
 - grep
 - sort 
 - uniq
+- cp 
+- mv
+- xxp (reverse hex dump)
+
